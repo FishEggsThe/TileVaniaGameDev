@@ -1,0 +1,795 @@
+fileFormatVersion: 2
+guid: a236e723bfa26194ebf59a78c6815087
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 31
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SPA_Rock_Grass_Water_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 190
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e4050e8b8061eb4c943ec776e12b715
+      internalID: -1483602790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPA_Rock_Grass_Water_1
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 190
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc118716da918c840bf8a4540ea9f0b6
+      internalID: 286021154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPA_Rock_Grass_Water_2
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 190
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75f91daeaed70164cbbb7e39cd82d2eb
+      internalID: 557517089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPA_Rock_Grass_Water_3
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 190
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 365644cc011b65440ab324ea4c86181a
+      internalID: 560290123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPA_Rock_Grass_Water_4
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 190
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94adac0630fbfef4eadebb4d57b273b3
+      internalID: 1127745957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPA_Rock_Grass_Water_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 152
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c544294276d19eb44900639c53d83d5b
+      internalID: 1485863722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPA_Rock_Grass_Water_6
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 152
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49069fb8f6a408949adb45904bc83764
+      internalID: 676794810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPA_Rock_Grass_Water_7
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 152
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa4f53d8a25397d42be62f19a9521425
+      internalID: -1960473663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPA_Rock_Grass_Water_8
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 152
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 777c01f7251780e458526790c19b0709
+      internalID: 430791196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPA_Rock_Grass_Water_9
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 152
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c36e47af61c600d41b509d7697ccbf0e
+      internalID: -1720401282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPA_Rock_Grass_Water_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 114
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39ba8694906a69841a989007286726cd
+      internalID: -140823399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPA_Rock_Grass_Water_11
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 114
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b474f3292004bf48832a895aac6bb62
+      internalID: 823502505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPA_Rock_Grass_Water_12
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 114
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bfa55d2b85f51947b7322b084511f7d
+      internalID: 2027949413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPA_Rock_Grass_Water_13
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 114
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4df82484fa3e85419ebf6734021d2d7
+      internalID: -865973439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPA_Rock_Grass_Water_14
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 114
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f49ae0a642e982844a8bb68728206aa6
+      internalID: 778882257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPA_Rock_Grass_Water_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 76
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eacd52fcceebef74486c881a0ec0ce61
+      internalID: -1962177506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPA_Rock_Grass_Water_16
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 76
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88a326b78b603c440af5a81a6d2122e0
+      internalID: -1566894298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPA_Rock_Grass_Water_17
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 76
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7dba04d014865945a60b2b45be2059a
+      internalID: 1410841514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPA_Rock_Grass_Water_18
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 76
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5abc41624a08d64a8c395ecbe89342a
+      internalID: -1157291571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPA_Rock_Grass_Water_19
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 76
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c03f1e5e4dec81e4cb06b6555bcd6930
+      internalID: -1515520591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPA_Rock_Grass_Water_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 38
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0226e227316508741b382a97f461701e
+      internalID: -715369055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPA_Rock_Grass_Water_21
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 38
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c4904eb5f093a8468ae12c65865733c
+      internalID: 932044836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPA_Rock_Grass_Water_22
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 38
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d58aa5870172fc44d9aadedd93ec5282
+      internalID: -1442231727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPA_Rock_Grass_Water_23
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 38
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6323319536f263041b41c5a7d8e7dc1d
+      internalID: -1882173723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPA_Rock_Grass_Water_24
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 38
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a90189be714371647b7c3a503f31ac57
+      internalID: 901948493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPA_Rock_Grass_Water_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc834b60a36ab8a42a6eaf043799fbcb
+      internalID: 620674244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPA_Rock_Grass_Water_26
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97e4a8cae5fc28f4d9cda0ae378884d6
+      internalID: 269864521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPA_Rock_Grass_Water_27
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e28e692b91e4ab449d2c8ab4ce1e141
+      internalID: 1487474538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPA_Rock_Grass_Water_28
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 832cfec64e5ae5046ade1a6395997878
+      internalID: -1512065029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPA_Rock_Grass_Water_29
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c96998af766aa54c8ae952ca434bab0
+      internalID: -2039204297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      SPA_Rock_Grass_Water_4: 1127745957
+      SPA_Rock_Grass_Water_24: 901948493
+      SPA_Rock_Grass_Water_16: -1566894298
+      SPA_Rock_Grass_Water_5: 1485863722
+      SPA_Rock_Grass_Water_1: 286021154
+      SPA_Rock_Grass_Water_14: 778882257
+      SPA_Rock_Grass_Water_20: -715369055
+      SPA_Rock_Grass_Water_17: 1410841514
+      SPA_Rock_Grass_Water_25: 620674244
+      SPA_Rock_Grass_Water_21: 932044836
+      SPA_Rock_Grass_Water_26: 269864521
+      SPA_Rock_Grass_Water_2: 557517089
+      SPA_Rock_Grass_Water_12: 2027949413
+      SPA_Rock_Grass_Water_0: -1483602790
+      SPA_Rock_Grass_Water_9: -1720401282
+      SPA_Rock_Grass_Water_29: -2039204297
+      SPA_Rock_Grass_Water_6: 676794810
+      SPA_Rock_Grass_Water_18: -1157291571
+      SPA_Rock_Grass_Water_23: -1882173723
+      SPA_Rock_Grass_Water_19: -1515520591
+      SPA_Rock_Grass_Water_10: -140823399
+      SPA_Rock_Grass_Water_15: -1962177506
+      SPA_Rock_Grass_Water_22: -1442231727
+      SPA_Rock_Grass_Water_7: -1960473663
+      SPA_Rock_Grass_Water_27: 1487474538
+      SPA_Rock_Grass_Water_11: 823502505
+      SPA_Rock_Grass_Water_28: -1512065029
+      SPA_Rock_Grass_Water_3: 560290123
+      SPA_Rock_Grass_Water_8: 430791196
+      SPA_Rock_Grass_Water_13: -865973439
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
